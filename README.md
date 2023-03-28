@@ -2,6 +2,7 @@
 <div align = "center">
 ¡Hola mundo!👋🏼 Soy Francisco Chanivet y soy un estudiante del grado de Ingeniería Informática 
 </div>
+
 ## Acerca de mí
 
 ## Habilidades
